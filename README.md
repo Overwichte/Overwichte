@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @Overwichte
 - 👀 Je suis intéressé par la programmation des applications web et mobile 
 - 🌱 J'apprends actuellement le java
-- 💞️ I’m looking to collaborate on ..
+- 💞️ Je cherche à collaborer sur un projet de création d'applications..
+-
+- 📫 How to reach me voici mon mail 
+- sarigildas843@gmail.com
 - 
-- 📫 How to reach me ...
 
-<!---
-Overwichte/Overwichte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
